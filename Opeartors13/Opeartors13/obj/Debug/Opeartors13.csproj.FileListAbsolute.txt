@@ -1,0 +1,6 @@
+Z:\COMP-1030\Labs\Opeartors13\Opeartors13\bin\Debug\Opeartors13.exe.config
+Z:\COMP-1030\Labs\Opeartors13\Opeartors13\bin\Debug\Opeartors13.exe
+Z:\COMP-1030\Labs\Opeartors13\Opeartors13\bin\Debug\Opeartors13.pdb
+Z:\COMP-1030\Labs\Opeartors13\Opeartors13\obj\Debug\Opeartors13.csprojResolveAssemblyReference.cache
+Z:\COMP-1030\Labs\Opeartors13\Opeartors13\obj\Debug\Opeartors13.exe
+Z:\COMP-1030\Labs\Opeartors13\Opeartors13\obj\Debug\Opeartors13.pdb
