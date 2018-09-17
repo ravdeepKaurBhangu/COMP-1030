@@ -1,0 +1,9 @@
+Z:\COMP-1030\Labs\Form12Sept\Form12Sept\bin\Debug\Form12Sept.exe.config
+Z:\COMP-1030\Labs\Form12Sept\Form12Sept\bin\Debug\Form12Sept.exe
+Z:\COMP-1030\Labs\Form12Sept\Form12Sept\bin\Debug\Form12Sept.pdb
+Z:\COMP-1030\Labs\Form12Sept\Form12Sept\obj\Debug\Form12Sept.csprojResolveAssemblyReference.cache
+Z:\COMP-1030\Labs\Form12Sept\Form12Sept\obj\Debug\Form12Sept.Form1.resources
+Z:\COMP-1030\Labs\Form12Sept\Form12Sept\obj\Debug\Form12Sept.Properties.Resources.resources
+Z:\COMP-1030\Labs\Form12Sept\Form12Sept\obj\Debug\Form12Sept.csproj.GenerateResource.Cache
+Z:\COMP-1030\Labs\Form12Sept\Form12Sept\obj\Debug\Form12Sept.exe
+Z:\COMP-1030\Labs\Form12Sept\Form12Sept\obj\Debug\Form12Sept.pdb
