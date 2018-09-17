@@ -1,0 +1,6 @@
+Z:\COMP-1030\Labs\VariblesProcessing\VariblesProcessing\bin\Debug\VariblesProcessing.exe.config
+Z:\COMP-1030\Labs\VariblesProcessing\VariblesProcessing\bin\Debug\VariblesProcessing.exe
+Z:\COMP-1030\Labs\VariblesProcessing\VariblesProcessing\bin\Debug\VariblesProcessing.pdb
+Z:\COMP-1030\Labs\VariblesProcessing\VariblesProcessing\obj\Debug\VariblesProcessing.csprojResolveAssemblyReference.cache
+Z:\COMP-1030\Labs\VariblesProcessing\VariblesProcessing\obj\Debug\VariblesProcessing.exe
+Z:\COMP-1030\Labs\VariblesProcessing\VariblesProcessing\obj\Debug\VariblesProcessing.pdb
