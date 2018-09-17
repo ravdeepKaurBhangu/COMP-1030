@@ -21,7 +21,7 @@ namespace Form12Sept
         {
             string fname;
             string lname;
-            fname = textBox1.Text;
+            fname = textBox1.Text;  //fetching the text
             lname = textBox2.Text;
             MessageBox.Show("Welcome "+fname+" "+lname);
         }
