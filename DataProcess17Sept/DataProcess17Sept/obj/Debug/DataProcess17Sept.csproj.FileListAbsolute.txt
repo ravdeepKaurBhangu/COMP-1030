@@ -1,0 +1,9 @@
+Z:\COMP-1030\Labs\DataProcess17Sept\DataProcess17Sept\bin\Debug\DataProcess17Sept.exe.config
+Z:\COMP-1030\Labs\DataProcess17Sept\DataProcess17Sept\bin\Debug\DataProcess17Sept.exe
+Z:\COMP-1030\Labs\DataProcess17Sept\DataProcess17Sept\bin\Debug\DataProcess17Sept.pdb
+Z:\COMP-1030\Labs\DataProcess17Sept\DataProcess17Sept\obj\Debug\DataProcess17Sept.csprojResolveAssemblyReference.cache
+Z:\COMP-1030\Labs\DataProcess17Sept\DataProcess17Sept\obj\Debug\DataProcess17Sept.Form1.resources
+Z:\COMP-1030\Labs\DataProcess17Sept\DataProcess17Sept\obj\Debug\DataProcess17Sept.Properties.Resources.resources
+Z:\COMP-1030\Labs\DataProcess17Sept\DataProcess17Sept\obj\Debug\DataProcess17Sept.csproj.GenerateResource.Cache
+Z:\COMP-1030\Labs\DataProcess17Sept\DataProcess17Sept\obj\Debug\DataProcess17Sept.exe
+Z:\COMP-1030\Labs\DataProcess17Sept\DataProcess17Sept\obj\Debug\DataProcess17Sept.pdb
