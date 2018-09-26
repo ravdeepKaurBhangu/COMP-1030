@@ -1,0 +1,18 @@
+Z:\PROG 1781\LAbs\OutPutFormattingExceptions\OutPutFormattingExceptions\bin\Debug\OutPutFormattingExceptions.exe.config
+Z:\PROG 1781\LAbs\OutPutFormattingExceptions\OutPutFormattingExceptions\bin\Debug\OutPutFormattingExceptions.exe
+Z:\PROG 1781\LAbs\OutPutFormattingExceptions\OutPutFormattingExceptions\bin\Debug\OutPutFormattingExceptions.pdb
+Z:\PROG 1781\LAbs\OutPutFormattingExceptions\OutPutFormattingExceptions\obj\Debug\OutPutFormattingExceptions.csprojResolveAssemblyReference.cache
+Z:\PROG 1781\LAbs\OutPutFormattingExceptions\OutPutFormattingExceptions\obj\Debug\OutPutFormattingExceptions.Form1.resources
+Z:\PROG 1781\LAbs\OutPutFormattingExceptions\OutPutFormattingExceptions\obj\Debug\OutPutFormattingExceptions.Properties.Resources.resources
+Z:\PROG 1781\LAbs\OutPutFormattingExceptions\OutPutFormattingExceptions\obj\Debug\OutPutFormattingExceptions.csproj.GenerateResource.Cache
+Z:\PROG 1781\LAbs\OutPutFormattingExceptions\OutPutFormattingExceptions\obj\Debug\OutPutFormattingExceptions.exe
+Z:\PROG 1781\LAbs\OutPutFormattingExceptions\OutPutFormattingExceptions\obj\Debug\OutPutFormattingExceptions.pdb
+Z:\COMP-1030\Labs\OutPutFormattingExceptions\OutPutFormattingExceptions\bin\Debug\OutPutFormattingExceptions.exe.config
+Z:\COMP-1030\Labs\OutPutFormattingExceptions\OutPutFormattingExceptions\obj\Debug\OutPutFormattingExceptions.exe
+Z:\COMP-1030\Labs\OutPutFormattingExceptions\OutPutFormattingExceptions\obj\Debug\OutPutFormattingExceptions.pdb
+Z:\COMP-1030\Labs\OutPutFormattingExceptions\OutPutFormattingExceptions\bin\Debug\OutPutFormattingExceptions.exe
+Z:\COMP-1030\Labs\OutPutFormattingExceptions\OutPutFormattingExceptions\bin\Debug\OutPutFormattingExceptions.pdb
+Z:\COMP-1030\Labs\OutPutFormattingExceptions\OutPutFormattingExceptions\obj\Debug\OutPutFormattingExceptions.csprojResolveAssemblyReference.cache
+Z:\COMP-1030\Labs\OutPutFormattingExceptions\OutPutFormattingExceptions\obj\Debug\OutPutFormattingExceptions.Form1.resources
+Z:\COMP-1030\Labs\OutPutFormattingExceptions\OutPutFormattingExceptions\obj\Debug\OutPutFormattingExceptions.Properties.Resources.resources
+Z:\COMP-1030\Labs\OutPutFormattingExceptions\OutPutFormattingExceptions\obj\Debug\OutPutFormattingExceptions.csproj.GenerateResource.Cache
